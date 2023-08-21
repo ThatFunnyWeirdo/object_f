@@ -1,0 +1,41 @@
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    color: black;
+    font-size: 20;
+    font-family: 'Caveat', cursive;
+}
+
+.note
+{
+    color: white;
+}
+
+body
+{
+    background-size: cover;
+}
+
+button
+{
+    font-size: 17;
+}
+
+.start, #item_found, #status
+{
+    font-size: 14px;
+    font-family: 'Mynerve', cursive;
+}
+
+#object_p
+{
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+canvas
+{  
+    border-radius: 10px;
+    border-color: black;
+    border-style: groove;
+}
